@@ -19,5 +19,5 @@ This project predicts future stock prices using Machine Learning.
 - MAE & RMSE Evaluation
 - Actual vs Predicted Graph
 
-## Author
+## Authorname
 Saurabh Kumar
