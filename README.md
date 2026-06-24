@@ -20,5 +20,4 @@ This project predicts future stock prices using Machine Learning.
 - Actual vs Predicted Graph
 
 ## Author
-Saurabh Kumar# Stock_Market_Prediction_System
-Machine Learning based Stock Market Prediction System using Python, Pandas, Matplotlib and Scikit-Learn.
+Saurabh Kumar
